@@ -1,0 +1,58 @@
+[
+    {
+      "codigo": 1,
+      "nombre": "Pen Flip",
+      "marca": "Dragon hawk",
+      "categoria": "Maquina",
+      "cantidadTotal": 1,
+      "precioUni": 300,
+      "paisOrigen": "EEUU",
+      "fechaVenc": "23/10/2024",
+      "descripcion": "Maquina pen con stroke variable de 2.0 a 4.0, funcional para líneas, sombreados y rellenos",
+      "proveedor": "Amazing Tattoo",
+      "imagen": "https://images.tcdn.com.br/img/img_prod/829232/maquina_tatuagem_pen_2_6_4_0mm_stroke_length_custom_motor_supply_mast_flip_vermelha_4421_1_b05f9bf7db1b1d9600cef0af04012ca3.jpg",
+      "cantidadCarrito": 0
+    },
+    {
+      "codigo": 2,
+      "nombre": "Dragon green",
+      "marca": "Intenze",
+      "categoria": "Tinta",
+      "cantidadTotal": 1,
+      "precioUni": 5,
+      "paisOrigen": "EEUU",
+      "fechaVenc": "4/11/2023",
+      "descripcion": "Tinta acrílica color rojo intenso, utilizable para plenos de estilo new school",
+      "proveedor": "Amazing Tattoo",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfI1aWGgGkPSameCStQFyxCFiTNdrlKidzYbdEvSBRrH0p_Z_D31tTG89UFm22ste8HE4&usqp=CAU",
+      "cantidadCarrito": 0
+    },
+    {
+      "codigo": 3,
+      "nombre": "Pen Ep9++",
+      "marca": "Ava",
+      "categoria": "Maquina",
+      "cantidadTotal": 1,
+      "precioUni": 250,
+      "paisOrigen": "EEUU",
+      "fechaVenc": "05/05/2030",
+      "descripcion": "Maquina pen con stroke 3.5, funcional para líneas, sombreados y rellenos",
+      "proveedor": "Amazing Tattoo",
+      "imagen": "https://tattoo-supply.cz/11052-large_default/ava-machine-ep9-black.jpg",
+      "cantidadCarrito": 0
+    },
+    {
+      "codigo": 4,
+      "nombre": "Black",
+      "marca": "Dynamic",
+      "categoria": "Tinta",
+      "cantidadTotal": 3,
+      "precioUni": 5,
+      "paisOrigen": "EEUU",
+      "fechaVenc": "13/7/2026",
+      "descripcion": "Tinta acrílica color negra, utilizable para líneas, sombreados y rellenos",
+      "proveedor": "Amazing Tattoo",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_979364-MLA69717100629_052023-O.webp",
+      "cantidadCarrito": 0
+    }
+  ]
